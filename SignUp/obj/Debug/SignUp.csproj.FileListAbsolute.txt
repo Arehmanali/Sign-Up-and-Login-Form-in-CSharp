@@ -1,0 +1,12 @@
+C:\Users\REHMAN\source\repos\SignUp\SignUp\bin\Debug\SignUp.exe.config
+C:\Users\REHMAN\source\repos\SignUp\SignUp\bin\Debug\SignUp.exe
+C:\Users\REHMAN\source\repos\SignUp\SignUp\bin\Debug\SignUp.pdb
+C:\Users\REHMAN\source\repos\SignUp\SignUp\obj\Debug\SignUp.csprojAssemblyReference.cache
+C:\Users\REHMAN\source\repos\SignUp\SignUp\obj\Debug\SignUp.Form1.resources
+C:\Users\REHMAN\source\repos\SignUp\SignUp\obj\Debug\SignUp.Properties.Resources.resources
+C:\Users\REHMAN\source\repos\SignUp\SignUp\obj\Debug\SignUp.csproj.GenerateResource.cache
+C:\Users\REHMAN\source\repos\SignUp\SignUp\obj\Debug\SignUp.exe
+C:\Users\REHMAN\source\repos\SignUp\SignUp\obj\Debug\SignUp.pdb
+C:\Users\REHMAN\source\repos\SignUp\SignUp\obj\Debug\SignUp.Login.resources
+C:\Users\REHMAN\source\repos\SignUp\SignUp\obj\Debug\SignUp.ForgetPassword.resources
+C:\Users\REHMAN\source\repos\SignUp\SignUp\obj\Debug\SignUp.Welcome_Page.resources
